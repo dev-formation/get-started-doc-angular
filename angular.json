@@ -24,6 +24,7 @@
           "configurations": {
             "production": {
               "baseHref": "/get-started-doc-angular",
+              "deployUrl": "https://dev-formation.github.io/get-started-doc-angular",
               "budgets": [
                 {
                   "type": "initial",
